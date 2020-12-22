@@ -1,0 +1,1 @@
+It is a Dice Simulator made it using Python, Explanation of the code is there in the comment
